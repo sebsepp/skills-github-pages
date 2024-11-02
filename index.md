@@ -1,7 +1,7 @@
 ---
-title: Test 123
+title: home
 ---
 
 # Hi :)
 
-Was geht ab?
+Das hier ist die Startseite auch *Home* genannt.
